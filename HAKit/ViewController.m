@@ -27,7 +27,7 @@
     
     self.view.backgroundColor = [UIColor whiteColor];
     
-    self.dataArray = [NSArray arrayWithObjects:@"电话管理",@"iOS 仿知乎/途家导航栏渐变文字动画效果",@"safair语音",@"语音合成", nil];
+    self.dataArray = [NSArray arrayWithObjects:@"电话管理",@"iOS 仿知乎/途家导航栏渐变文字动画效果",@"safair语音",@"语音合成",@"指纹解锁", nil];
     
     self.title = @"功能";
     self.view.backgroundColor = [UIColor whiteColor];

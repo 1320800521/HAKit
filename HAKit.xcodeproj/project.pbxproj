@@ -44,6 +44,7 @@
 		8B5D88081DB0823200C1668D /* CallKitTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D88071DB0823200C1668D /* CallKitTestViewController.m */; };
 		8B5D880C1DB0B99000C1668D /* NavtestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D880B1DB0B99000C1668D /* NavtestViewController.m */; };
 		8BAB31031DB726F3000C352E /* SpeechTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BAB31021DB726F3000C352E /* SpeechTestViewController.m */; };
+		8BAB31091DB77E36000C352E /* jieshuoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BAB31081DB77E36000C352E /* jieshuoViewController.m */; };
 		8BB7DA271DB5CDD800E828C2 /* icon_certification_status1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BB7DA231DB5CDD800E828C2 /* icon_certification_status1@2x.png */; };
 		8BB7DA281DB5CDD800E828C2 /* test1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8BB7DA241DB5CDD800E828C2 /* test1.gif */; };
 		8BB7DA291DB5CDD800E828C2 /* image01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8BB7DA251DB5CDD800E828C2 /* image01.jpg */; };
@@ -155,6 +156,8 @@
 		8B5D880B1DB0B99000C1668D /* NavtestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavtestViewController.m; sourceTree = "<group>"; };
 		8BAB31011DB726F3000C352E /* SpeechTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeechTestViewController.h; sourceTree = "<group>"; };
 		8BAB31021DB726F3000C352E /* SpeechTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeechTestViewController.m; sourceTree = "<group>"; };
+		8BAB31071DB77E36000C352E /* jieshuoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jieshuoViewController.h; sourceTree = "<group>"; };
+		8BAB31081DB77E36000C352E /* jieshuoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jieshuoViewController.m; sourceTree = "<group>"; };
 		8BB7DA231DB5CDD800E828C2 /* icon_certification_status1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_certification_status1@2x.png"; sourceTree = "<group>"; };
 		8BB7DA241DB5CDD800E828C2 /* test1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = test1.gif; sourceTree = "<group>"; };
 		8BB7DA251DB5CDD800E828C2 /* image01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image01.jpg; sourceTree = "<group>"; };
@@ -308,6 +311,8 @@
 				8B587CAD1D50A124007246DD /* Supporting Files */,
 				8BAB31011DB726F3000C352E /* SpeechTestViewController.h */,
 				8BAB31021DB726F3000C352E /* SpeechTestViewController.m */,
+				8BAB31071DB77E36000C352E /* jieshuoViewController.h */,
+				8BAB31081DB77E36000C352E /* jieshuoViewController.m */,
 			);
 			path = HAKit;
 			sourceTree = "<group>";
@@ -586,6 +591,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BAB31091DB77E36000C352E /* jieshuoViewController.m in Sources */,
 				8B587CB51D50A124007246DD /* ViewController.m in Sources */,
 				8B5D88081DB0823200C1668D /* CallKitTestViewController.m in Sources */,
 				8B49ECD71D65A5120036CF79 /* myCell.m in Sources */,
